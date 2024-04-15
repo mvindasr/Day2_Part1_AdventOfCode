@@ -26,7 +26,7 @@ Determine which games would have been possible if the bag had been loaded with o
 
 ## Instructions
 
-Code was programmed using Java 17.0 and IntelliJ as IDE. To run it, place your calibration document inside the "games" folder (a sample is provided in this repository) and then:
+Code was programmed using Java 17.0 and IntelliJ as IDE. To run it, place your input document inside the "games" folder (a sample is provided in this repository) and then:
 
 ```shellscript
 Run Application file
